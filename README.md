@@ -1,5 +1,9 @@
 ### Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/boomhaa?theme=unicorn&font=Baloo%202&ext=contest)
-<hr align="center" width="500" size="2" color="#ff0000" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/boomhaa?theme=unicorn&font=Baloo%202&ext=contest" />
+</p>
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomhaa&hide=TeX,html&theme=dracula" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boomhaa&hide=TeX,html)

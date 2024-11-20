@@ -4,6 +4,6 @@
 </p>
 <hr>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomhaa&hide=TeX,html&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boomhaa&layout=compact&hide=TeX,html&theme=darcula" />
 </p>
 

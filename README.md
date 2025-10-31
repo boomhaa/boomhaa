@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+*Аватарка была обработана с помощью нейросети*
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/boomhaa?theme=unicorn&font=Baloo%202&ext=contest" />
 </p>
